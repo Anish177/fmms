@@ -1,6 +1,11 @@
 body{
     background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
 }
+
+p{
+    margin:auto;
+    padding: 10px 10px 10px 10px;   
+}
 * {box-sizing:border-box}
 
 /* Slideshow container */
